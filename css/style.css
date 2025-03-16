@@ -18,7 +18,7 @@ body{
 /*
     Primary: #E53888;
     Secondary: #E9762B;
-    Light: #F1F0E9;
+    Light: #white;
     Dark: #000000;
 */    
 .navbar{
@@ -47,4 +47,10 @@ body{
 .mx-10{
     margin-left: 10px;
     margin-right: 10px;
+}
+.footer{
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+    font-size: 14px;
 }
